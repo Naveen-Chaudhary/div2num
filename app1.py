@@ -8,6 +8,7 @@ a= st.number_input('Number A')
 
 b =st.number_input('Number B')
 if b == 0:
-  st.write(f'A/B = Undefined'
+  a1=st.write(f'A/B = Undefined)
 else:
-  st.write(f'A/B = {a/b}')
+  a1=st.write(f'A/B = {a/b}')
+print(a1)
