@@ -1,1 +1,1 @@
-tkinter==8.6.12
+streamlit==0.76.0
